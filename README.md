@@ -1,2 +1,2 @@
-# divflow-privacy
+# divsprout-privacy
 DivFlow Privacy Policy
